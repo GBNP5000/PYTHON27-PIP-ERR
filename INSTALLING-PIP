@@ -24,3 +24,11 @@ ython to solve this. For more information, see https://urllib3.readthedocs.io/en
 ert protocol version'),)) - skipping
   Could not find a version that satisfies the requirement pip (from versions: )
 No matching distribution found for pip
+
+
+VERSION :
+
+C:\Python27>python -V
+Python 2.7
+
+C:\Python27>
